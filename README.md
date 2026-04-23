@@ -24,7 +24,7 @@ computer vision 과 Python, Java, Spring, Web, SQL, 그리고 C/C++ 기반으로
 👉 [Python Study](https://github.com/Gugaeun/python)
 
 ### ☕ Java
-👉 [Java Study](https://github.com/Gugaeun/Java_Study)  
+👉 [Java Study](https://github.com/Gugaeun/Java_Study)
 👉 [Java 2026](https://github.com/Gugaeun/Java_2026)
 👉 [Java_Spring_Study](https://github.com/Gugaeun/Java_Spring_Study)
 
