@@ -3,7 +3,7 @@
 
 ---
 
-computer vision 과 Python, Java, Spring, Web, SQL, 
+ComputerVision 과 Python, Java, Spring, Web, SQL, 
 그리고 C/C++ 기반으로 다양한 실습과 프로젝트를 진행하며 개발 역량을 키우고 있습니다.
 
 ---
