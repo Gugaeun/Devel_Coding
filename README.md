@@ -48,7 +48,7 @@ computer vision 과 Python, Java, Spring, Web, SQL,
 👉 [C++](https://github.com/Gugaeun/C-language)
 
 ### 📦 Homeworks
-👉 [과제 모음l Homework Projects](https://github.com/Gugaeun/Homeworks)
+👉 [실습 모음 Practicum Projects](https://github.com/Gugaeun/Practicum)
 
 ---
 
