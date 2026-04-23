@@ -1,91 +1,87 @@
+# 👋 안녕하세요! 구가은이라고 합니다!
 
-1. 👩‍💻 소개
+computer vision 과 Python, Java, Spring, Web, SQL, 그리고 C/C++ 기반으로 다양한 실습과 프로젝트를 진행하며 개발 역량을 키우고 있습니다.
 
-프로그래밍 기초부터 컴퓨터 비전까지 단계적으로 학습하며 다양한 실습 프로젝트를 수행하고 있습니다.
-C++, Python을 중심으로 실제 구현을 통해 문제 해결 능력을 키우는 것을 목표로 합니다.
+---
 
+## 📌 Projects Overview
 
-2. 🧩 프로젝트 목록
+각 분야별로 학습 및 실습한 내용을 정리한 저장소입니다.
 
-### 🖥️ C++ / 시스템 & 기초 프로그래밍
+- 🐍 Python → 알고리즘, 과제, 미니 프로젝트
+- ☕ Java → 기본 문법, 객체지향, 문제 풀이
+- 🌱 Spring → 백엔드 구조, REST API, DB 연동
+- 🌐 Web → HTML / CSS / JavaScript UI 구현
+- 🗄 SQL → 데이터 조회 및 분석
+- 👁 Computer Vision → OpenCV 기반 이미지 처리
+- 💻 C++ → 기초 문법 및 자료구조 학습
 
-* [C++](https://github.com/Gugaeun/C-language)
-  - C++ 으로 다양한 실습 경험
+---
 
+## 🔗 Repositories
 
-### 👁️ Computer Vision (Python + OpenCV)
+### 🐍 Python
+👉 [Python Study](https://github.com/Gugaeun/python)
 
-* [ComputerVision](https://github.com/Gugaeun/ComputerVision)
-  - Python과 OpenCV를 활용한 이미지 처리 및 영상 분석 실습
-  (그레이스케일 변환, 필터링, 엣지 검출 등 기본 알고리즘 구현)
+### ☕ Java
+👉 [Java Study](https://github.com/Gugaeun/Java_Study)  
+👉 [Java 2026](https://github.com/Gugaeun/Java_2026)
+👉 [Java_Spring_Study](https://github.com/Gugaeun/Java_Spring_Study)
 
+### 🌱 Spring
+👉 [Spring Study](https://github.com/Gugaeun/Java_Spring_Study)
 
+### 🌐 Web
+👉 [Web Language](https://github.com/Gugaeun/Web-language)
 
-### 🧪 Python / 알고리즘 & 로직 구현
+### 🗄 SQL
+👉 [SQL Study](https://github.com/Gugaeun/Sql_Study)
 
-* [python](https://github.com/Gugaeun/python)
-* 볼링 점수 계산 프로그램
-  - 랜덤 게임 생성 및 프레임 기반 점수 계산 로직 구현
+### 👁 Computer Vision
+👉 [ComputerVision](https://github.com/Gugaeun/ComputerVision)
 
-### 🖼️ UI / 애플리케이션 개발(python언어 사용)
+### 💻 C++
+👉 [C++](https://github.com/Gugaeun/C-language)
 
-* Flet 기반 장바구니 프로그램
-  - 상품 선택, 총 금액 계산, UI 이벤트 처리 기능 구현
-   - [코드 : 장바구니](https://github.com/Gugaeun/Homeworks/blob/main/py_homework/MarketPack.py)
+### 📦 Homeworks
+👉 [과제 모음l Homework Projects](https://github.com/Gugaeun/Homeworks)
 
-* Flet 기반 전화번호부 프로그램
-  - 연락처 추가, 삭제, 검색 기능 구현 및 클래스 설계 적용
-   - [코드 : 전화번호부](https://github.com/Gugaeun/Homeworks/blob/main/py_homework/PhoneNum.py)
+---
 
+## ⭐ Featured Projects
 
-### 🌐 Web / 프론트엔드 기초
+- 🎳 Bowling Score Calculator (Python)
+- 🛒 Shopping Cart System (Python + UI)
+- 🌱 REST API Server (Spring Framework)
+- 🌐 Web UI Design (HTML / CSS / JS)
+- 👁 Image Processing System (OpenCV)
 
-* HTML 웹 UI 기초
-  - 다양한 html의 명령어를 사용하여 기초적인 웹 페이지 레이아웃 구성
-* CSS 레이아웃 실습
-  - Flexbox를 활용한 웹 페이지 레이아웃 구성
+---
 
+## 💡 What I Learned
 
-### ☕ Java / 객체지향 프로그래밍
+- Python, C를 통한 기본 프로그래밍 구조 이해
+- Java 객체지향 프로그래밍 및 문제 해결 능력 향상
+- Spring Framework 기반 백엔드 구조 이해
+- HTML/CSS/JS를 활용한 프론트엔드 구현 경험
+- SQL을 활용한 데이터 조회 및 처리 능력 향상
+- OpenCV를 활용한 이미지 처리 및 컴퓨터 비전 기초 이해
 
-[Java_2026](https://github.com/Gugaeun/Java_2026)
-- 클래스, 객체, 상속 등 객체지향 개념을 활용한 프로그램 구현
-- 스레드 및 기본 애플리케이션 구조 학습
+---
 
-### 그 외 Java 
+## 🛠 Tech Stack
 
-- [Java_Spring_Study](https://github.com/Gugaeun/Java_Spring_Study),
-- [Java_Study](https://github.com/Gugaeun/Java_Study)
-- Java 프레임워크 Spring을 활용한 다양한 실습
+- Python
+- Java
+- Spring Framework
+- C / C++
+- HTML / CSS / JavaScript
+- SQL
+- OpenCV
 
-## 🛠 기술 스택
+---
 
-* **Language**: C++, Python, HTML, CSS, Java
-* **Library / Framework**: OpenCV, Flet
-* **Environment**: Linux
+## 🚀 목표
 
-
-3.📌 주요 학습 내용
-
-* C++ 기반 프로그래밍 구조 및 로직 설계
-* Python을 활용한 알고리즘 구현
-* OpenCV 기반 이미지 처리 및 컴퓨터 비전 기초
-* UI 프레임워크(Flet)를 활용한 애플리케이션 개발
-* 웹 프론트엔드 레이아웃 구성
-
-
-4. ⭐ Featured Projects
-
-* **Computer Vision (OpenCV)**
-  - 이미지 처리 및 영상 분석 기초 구현
-
-* **볼링 점수 계산 프로그램**
-  - 복잡한 규칙 기반 로직 설계 및 함수 구조화
-
-* **Flet UI 프로젝트**
-  - 이벤트 기반 UI 설계 및 사용자 인터페이스 구현
-
-
-## 💡 한 줄 정리
-
-기초 개념부터 실제 구현까지, 다양한 언어와 환경에서 문제 해결 능력을 키우는 개발자를 목표로 하고 있습니다.
+꾸준한 학습을 통해 백엔드와 데이터 처리, 그리고 컴퓨터 비전까지  
+다양한 영역을 이해하는 개발자로 성장하는 것이 목표입니다.
