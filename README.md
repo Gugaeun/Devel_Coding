@@ -25,7 +25,7 @@ Python, Java, C++, 웹(HTML/CSS/JS), SQL, OpenCV까지 — 다양한 언어와 �
 | 🐍 Python | [python](https://github.com/Gugaeun/python) | 알고리즘, 과제, 미니 프로젝트 |
 | ☕ Java | [Java_2026](https://github.com/Gugaeun/Java_2026) | 기본 문법, 객체지향, 문제 풀이 |
 | 🌐 Web | [Web-language](https://github.com/Gugaeun/Web-language) | HTML/CSS/JavaScript UI 구현 |
-| 👁 Computer Vision | [ComputerVision](https://github.com/Gugaeun/ComputerVision) | OpenCV 기반 이미지 처리 기초 |
+| 👁 Computer Vision | [ComputerVision](https://github.com/Gugaeun/ComputerVision) | 영상 처리 기초, YOLOv3 탐지·SORT 추적, MediaPipe, ViT, 3D 비전 |
 | 💻 C++ | [C-language](https://github.com/Gugaeun/C-language) | 기초 문법 및 자료구조 |
 | 🌱 Spring *(이전 학기)* | [Java_Spring_Study](https://github.com/Gugaeun/Java_Spring_Study) | Spring 기반 백엔드 구조, REST API |
 | 🗄 SQL *(이전 학기)* | [Sql_Study](https://github.com/Gugaeun/Sql_Study) | 데이터 조회 및 분석 |
@@ -52,7 +52,6 @@ Python, Java, C++, 웹(HTML/CSS/JS), SQL, OpenCV까지 — 다양한 언어와 �
 
 > 매일 자동으로 갱신됩니다 ([github-stats](https://github.com/Gugaeun/github-stats) Action 기반). 2021년 이전 학기 저장소(Sql_Study, Java_Spring_Study, Java_Study)는 벤더 라이브러리 코드가 많이 섞여있어 통계에서 제외했습니다.
 
----
 ![GitHub Stats Overview](https://github.com/Gugaeun/github-stats/blob/generated/overview.svg#gh-light-mode-only)
 
 ---
@@ -67,4 +66,4 @@ Python, Java, C++, 웹(HTML/CSS/JS), SQL, OpenCV까지 — 다양한 언어와 �
 
 ## 📮 Contact
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yms07050@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:여기에_본인_이메일_입력)
