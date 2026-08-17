@@ -17,7 +17,7 @@ Python, Java, C++, 웹(HTML/CSS/JS), SQL, OpenCV까지 — 다양한 언어와 �
 
 ---
 
-## 📚 기초 학습 저장소
+## 📚 학습 저장소
 
 | 분야 | 저장소 | 내용 |
 |---|---|---|
@@ -27,6 +27,8 @@ Python, Java, C++, 웹(HTML/CSS/JS), SQL, OpenCV까지 — 다양한 언어와 �
 | 🌐 Web | [Web-language](https://github.com/Gugaeun/Web-language) | HTML/CSS/JavaScript UI 구현 |
 | 👁 Computer Vision | [ComputerVision](https://github.com/Gugaeun/ComputerVision) | OpenCV 기반 이미지 처리 기초 |
 | 💻 C++ | [C-language](https://github.com/Gugaeun/C-language) | 기초 문법 및 자료구조 |
+| 🌱 Spring *(이전 학기)* | [Java_Spring_Study](https://github.com/Gugaeun/Java_Spring_Study) | Spring 기반 백엔드 구조, REST API |
+| 🗄 SQL *(이전 학기)* | [Sql_Study](https://github.com/Gugaeun/Sql_Study) | 데이터 조회 및 분석 |
 
 ---
 
@@ -49,6 +51,10 @@ Python, Java, C++, 웹(HTML/CSS/JS), SQL, OpenCV까지 — 다양한 언어와 �
 ![Language Stats](https://github.com/Gugaeun/github-stats/blob/generated/languages.svg#gh-light-mode-only)
 
 > 매일 자동으로 갱신됩니다 ([github-stats](https://github.com/Gugaeun/github-stats) Action 기반). 2021년 이전 학기 저장소(Sql_Study, Java_Spring_Study, Java_Study)는 벤더 라이브러리 코드가 많이 섞여있어 통계에서 제외했습니다.
+
+---
+
+![GitHub Stats Overview](https://github.com/Gugaeun/github-stats/blob/generated/overview.svg#gh-light-mode-only)
 
 ---
 
