@@ -1,91 +1,59 @@
+# 안녕하세요, 구가은입니다 👋
 
-# 👋 안녕하세요! 구가은이라고 합니다!
-
----
-
-ComputerVision 과 Python, Java, Spring, Web, SQL, 
-그리고 C/C++ 기반으로 다양한 실습과 프로젝트를 진행하며 개발 역량을 키우고 있습니다.
+Computer Vision과 백엔드를 중심으로, 기초부터 차근차근 쌓아가며 배우고 있습니다.
 
 ---
 
-## 📌 Projects Overview
+## 🚀 Featured Project
 
-각 분야별로 학습 및 실습한 내용을 정리한 저장소입니다.
+### [CNN Multi-Framework](https://github.com/Gugaeun/cnn-multi-framework)
+동일한 CNN 이미지 분류 모델을 **NumPy(밑바닥 구현) → PyTorch → Keras**로 각각 구현하고 비교한 뒤, **ONNX로 변환**하여 프레임워크 간 상호운용성을 검증하고, **Flask/FastAPI로 서빙 API**까지 구축한 프로젝트입니다.
 
-- 🐍 Python → 알고리즘, 과제, 미니 프로젝트
-- ☕ Java → 기본 문법, 객체지향, 문제 풀이
-- 🌱 Spring → 백엔드 구조, REST API, DB 연동
-- 🌐 Web → HTML / CSS / JavaScript UI 구현
-- 🗄 SQL → 데이터 조회 및 분석
-- 👁 Computer Vision → OpenCV 기반 이미지 처리
-- 💻 C++ → 기초 문법 및 자료구조 학습
+- 세 프레임워크의 코드 스타일·학습 시간·정확도를 실측하여 비교
+- PyTorch → ONNX 변환 후 출력값 차이 1.53e-05(사실상 동일), 추론 속도 3.6배 향상 확인
+- Flask / FastAPI 두 방식으로 실제 서빙 API 구현 및 curl 테스트 완료
 
----
-
-## 🔗 Repositories
-
-### 🐍 Python
-👉 [Python Study](https://github.com/Gugaeun/python)
-
-### ☕ Java
-👉 [Java Study](https://github.com/Gugaeun/Java_Study)
-👉 [Java 2026](https://github.com/Gugaeun/Java_2026)
-👉 [Java_Spring_Study](https://github.com/Gugaeun/Java_Spring_Study)
-
-### 🌱 Spring
-👉 [Spring Study](https://github.com/Gugaeun/Java_Spring_Study)
-
-### 🌐 Web
-👉 [Web Language](https://github.com/Gugaeun/Web-language)
-
-### 🗄 SQL
-👉 [SQL Study](https://github.com/Gugaeun/Sql_Study)
-
-### 👁 Computer Vision
-👉 [ComputerVision](https://github.com/Gugaeun/ComputerVision)
-
-### 💻 C++
-👉 [C++](https://github.com/Gugaeun/C-language)
-
-### 📦 Homeworks
-👉 [실습 모음 Practicum Projects](https://github.com/Gugaeun/Practicum)
+`Python` `NumPy` `PyTorch` `TensorFlow/Keras` `ONNX` `FastAPI` `Flask`
 
 ---
 
-## ⭐ Featured Projects
+## 📚 기초 학습 저장소
 
-- 🎳 Bowling Score Calculator (Python)
-- 🛒 Shopping Cart System (Python + UI)
-- 🌱 REST API Server (Spring Framework)
-- 🌐 Web UI Design (HTML / CSS / JS)
-- 👁 Image Processing System (OpenCV)
-
----
-
-## 💡 What I Learned
-
-- Python, C를 통한 기본 프로그래밍 구조 이해
-- Java 객체지향 프로그래밍 및 문제 해결 능력 향상
-- Spring Framework 기반 백엔드 구조 이해
-- HTML/CSS/JS를 활용한 프론트엔드 구현 경험
-- SQL을 활용한 데이터 조회 및 처리 능력 향상
-- OpenCV를 활용한 이미지 처리 및 컴퓨터 비전 기초 이해
+| 분야 | 저장소 | 내용 |
+|---|---|---|
+| 🧩 종합 실습 | [Practicum](https://github.com/Gugaeun/Practicum) | 자료구조(Python/C++), 웹 UI(배포 포함), OpenCV 기초 |
+| 🐍 Python | [python](https://github.com/Gugaeun/python) | 알고리즘, 과제, 미니 프로젝트 |
+| ☕ Java | [Java_2026](https://github.com/Gugaeun/Java_2026) | 기본 문법, 객체지향, 문제 풀이 |
+| 🌐 Web | [Web-language](https://github.com/Gugaeun/Web-language) | HTML/CSS/JavaScript UI 구현 |
+| 👁 Computer Vision | [ComputerVision](https://github.com/Gugaeun/ComputerVision) | OpenCV 기반 이미지 처리 기초 |
+| 💻 C++ | [C-language](https://github.com/Gugaeun/C-language) | 기초 문법 및 자료구조 |
 
 ---
 
 ## 🛠 Tech Stack
 
-- Python
-- Java
-- Spring Framework
-- C / C++
-- HTML / CSS / JavaScript
-- SQL
-- OpenCV
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ---
 
-## 🚀 목표
+## 📊 Language Stats
 
-꾸준한 학습을 통해 백엔드와 데이터 처리, 그리고 컴퓨터 비전까지  
-다양한 영역을 이해하는 개발자로 성장하는 것이 목표입니다.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugaeun&layout=compact&theme=default&hide=Jupyter%20Notebook&exclude_repo=Sql_Study,Java_Spring_Study,Java_Study" alt="Top Languages" />
+
+> 2021년 진행한 이전 학기 저장소(Sql_Study, Java_Spring_Study, Java_Study)는 통계에서 제외했습니다.
+
+---
+
+## 🎯 현재 목표
+
+- Computer Vision 심화 학습 (YOLO 기반 객체 탐지)
+- 여러 ML 프레임워크를 이해하고 상황에 맞게 선택할 수 있는 역량 키우기
+- 백엔드(API 서빙)와 모델 개발을 함께 다룰 수 있는 개발자로 성장
