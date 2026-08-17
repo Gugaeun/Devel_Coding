@@ -53,7 +53,6 @@ Python, Java, C++, 웹(HTML/CSS/JS), SQL, OpenCV까지 — 다양한 언어와 �
 > 매일 자동으로 갱신됩니다 ([github-stats](https://github.com/Gugaeun/github-stats) Action 기반). 2021년 이전 학기 저장소(Sql_Study, Java_Spring_Study, Java_Study)는 벤더 라이브러리 코드가 많이 섞여있어 통계에서 제외했습니다.
 
 ---
-
 ![GitHub Stats Overview](https://github.com/Gugaeun/github-stats/blob/generated/overview.svg#gh-light-mode-only)
 
 ---
@@ -63,3 +62,9 @@ Python, Java, C++, 웹(HTML/CSS/JS), SQL, OpenCV까지 — 다양한 언어와 �
 - Computer Vision 심화 학습 (YOLO 기반 객체 탐지)
 - 여러 ML 프레임워크를 이해하고 상황에 맞게 선택할 수 있는 역량 키우기
 - 백엔드(API 서빙)와 모델 개발을 함께 다룰 수 있는 개발자로 성장
+
+---
+
+## 📮 Contact
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yms07050@gmail.com)
