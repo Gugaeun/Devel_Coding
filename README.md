@@ -1,6 +1,6 @@
 # 안녕하세요, 구가은입니다 👋
 
-Computer Vision과 백엔드를 중심으로, 기초부터 차근차근 쌓아가며 배우고 있습니다.
+Python, Java, C++, 웹(HTML/CSS/JS), SQL, OpenCV까지 — 다양한 언어와 분야를 두루 다뤄보며 기초를 쌓아왔고, 최근에는 이를 바탕으로 **Computer Vision과 딥러닝 프레임워크(NumPy/PyTorch/TensorFlow)**, 그리고 **백엔드 API 서빙(Flask/FastAPI)** 쪽으로 전문성을 넓혀가고 있습니다.
 
 ---
 
@@ -48,7 +48,7 @@ Computer Vision과 백엔드를 중심으로, 기초부터 차근차근 쌓아�
 
 ![Language Stats](https://github.com/Gugaeun/github-stats/blob/generated/languages.svg#gh-light-mode-only)
 
-> 2021년 진행한 이전 학기 저장소(Sql_Study, Java_Spring_Study, Java_Study)는 통계에서 제외했습니다.
+> 매일 자동으로 갱신됩니다 ([github-stats](https://github.com/Gugaeun/github-stats) Action 기반). 2021년 이전 학기 저장소(Sql_Study, Java_Spring_Study, Java_Study)는 벤더 라이브러리 코드가 많이 섞여있어 통계에서 제외했습니다.
 
 ---
 
