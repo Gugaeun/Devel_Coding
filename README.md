@@ -46,7 +46,7 @@ Computer Vision과 백엔드를 중심으로, 기초부터 차근차근 쌓아�
 
 ## 📊 Language Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugaeun&layout=compact&theme=default&hide=Jupyter%20Notebook&exclude_repo=Sql_Study,Java_Spring_Study,Java_Study" alt="Top Languages" />
+![Language Stats](https://github.com/Gugaeun/github-stats/blob/generated/languages.svg#gh-light-mode-only)
 
 > 2021년 진행한 이전 학기 저장소(Sql_Study, Java_Spring_Study, Java_Study)는 통계에서 제외했습니다.
 
